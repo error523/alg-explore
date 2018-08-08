@@ -24,3 +24,6 @@ hs_err_pid*
 
 #idea
 .idea
+basic-data-structure/target/generated-sources/
+basic-data-structure/target/generated-test-sources/
+*.iml
